@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sujan Ghimire</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate MERN stack developer from Nepal</h3>
 <p align="center">
   <a href="https://twitter.com/@sujanghimire61" target="blank">
     <img src="https://img.shields.io/twitter/follow/@sujanghimire61?logo=twitter&style=for-the-badge" alt="@sujanghimire61" />
